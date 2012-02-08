@@ -3,7 +3,7 @@
 
 	<groupId>org.webframe</groupId>
 	<artifactId>extjs</artifactId>
-	<version>3.3.1</version>
+	<version>4.0.7-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>extjs</name>
