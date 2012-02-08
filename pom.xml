@@ -9,7 +9,7 @@
 
 	<name>extjs</name>
 	<description>封装extjs</description>
-	<url>http://github.com/fqntxmqee/extjs</url>
+	<url>http://github.com/fqntxmqee/org.webframe.extjs</url>
 	
 	<licenses>
 		<license>
@@ -20,9 +20,9 @@
 	</licenses>
 
 	<scm>
-		<url>ssh://git@github.com/fqntxmqee/extjs</url>
-		<connection>scm:git:ssh://git@github.com/fqntxmqee/extjs</connection>
-		<developerConnection>scm:git:ssh://git@github.com/fqntxmqee/extjs</developerConnection>
+		<url>ssh://git@github.com/fqntxmqee/org.webframe.extjs</url>
+		<connection>scm:git:ssh://git@github.com/fqntxmqee/org.webframe.extjs</connection>
+		<developerConnection>scm:git:ssh://git@github.com/fqntxmqee/org.webframe.extjs</developerConnection>
 	</scm>
 
 	<developers>
